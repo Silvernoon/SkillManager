@@ -172,6 +172,7 @@ public class Skill
 		public LocalizeKey Portuguese_European(string key) => addForLang("Portuguese_European", key);
 		public LocalizeKey Portuguese_Brazilian(string key) => addForLang("Portuguese_Brazilian", key);
 		public LocalizeKey Chinese(string key) => addForLang("Chinese", key);
+		public LocalizeKey Chinese_Trad(string key) => addForLang("Chinese_Trad", key);
 		public LocalizeKey Japanese(string key) => addForLang("Japanese", key);
 		public LocalizeKey Korean(string key) => addForLang("Korean", key);
 		public LocalizeKey Hindi(string key) => addForLang("Hindi", key);
